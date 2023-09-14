@@ -1,14 +1,4 @@
 
-StudyFame
-
-    MCQ
-    C Program
-    PHP Program
-    JavaScript
-    PL/SQL Program
-    cpp program
-    Articles
-    More
 
 FCFS(First Come First Serve) scheduling program in C
 
@@ -109,22 +99,7 @@ P1       5       5       24      19      14
 average turnaround time is 11.600000
 average wating timme is 7.000000
 
-Related Programs
-Shortage job first (SJF) program in C
-StudyFame
 
-Studyfame is learning website
-Instant Contact
-contact.studyfame@gmail.com
-tutorial
-Javascript
-python tutorial
-python tutorial
-example
-C program
-PL/SQL program
-javascript program
-privacy policy
 term of use
 sitemap
 ©Copyright 2022 StudyFame.com. All rights reserved
