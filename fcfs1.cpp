@@ -98,9 +98,3 @@ P3       4       4       19      15      11
 P1       5       5       24      19      14
 average turnaround time is 11.600000
 average wating timme is 7.000000
-
-
-term of use
-sitemap
-©Copyright 2022 StudyFame.com. All rights reserved
-
